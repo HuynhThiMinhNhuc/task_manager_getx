@@ -29,6 +29,12 @@ Todo App is a Flutter project with some informations below:
 
 - Screenshots:
 
+<img src="https://github.com/HuynhThiMinhNhuc/task_manager_getx/blob/main/screenshots/android/all.jpg" height="300em" />   <img src="https://github.com/HuynhThiMinhNhuc/task_manager_getx/blob/main/screenshots/android/completed.jpg" height="300em" />    <img src="https://github.com/HuynhThiMinhNhuc/task_manager_getx/blob/main/screenshots/android/in_completed.jpg" height="300em" /> 
+
+- Video:
+
+<img src="https://github.com/HuynhThiMinhNhuc/task_manager_getx/blob/main/screenshots/android/demo.gif" height="600em" />
+
 # How to run this application(on VsCode)?
 
 1. Start a simulator(iOS or Android)
@@ -43,5 +49,6 @@ Note: Other environment(stg, prod) to build file(ipa or apk) for test on device.
 # Contact
 
 Nick Name: Minh Nhuc
+
 My email: huynhthiminhnhuc@gmail.com
 
