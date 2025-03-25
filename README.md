@@ -7,7 +7,7 @@
 # About Todo App
 Todo App is a Flutter project with some informations below:
 ## Requirement vs feature list
-- About Requirement - [Reference](https://drive.google.com/drive/folders/1dFsp3GZ40lc8gURTDVCPQgrbBpxc6enk?usp=sharing)
+- About Requirement - [Reference](https://docs.google.com/document/d/1Sy9J58UQLZZnWfBbXhxK1iIO4vyTcruz/edit)
 
 - Feature list:
 
